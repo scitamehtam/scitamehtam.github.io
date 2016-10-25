@@ -1,2 +1,3 @@
 title: "My story to become better than the average" 
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
